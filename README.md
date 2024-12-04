@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:4.12.2024
+## Register Number:24900901
+## Name:S.S.Sharveshwaran
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,56 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+1)Alumni Registration & Profile Management:
+Easy sign-up and profile updates for alumni to join the association and stay connected.
+
+2)Donation Portal:
+Secure and simple donation process for alumni to contribute to the college’s growth.
+
+3)Success Story Tracking:
+Highlight alumni achievements and success stories to inspire and build pride.
+
+4)Events & Reunions:
+Stay informed about upcoming events, reunions, and workshops, with easy registration options.
+
+
+
+
+
 
 
 ## Proposed Solution / Architecture Diagram
+![image](https://github.com/user-attachments/assets/1077fe0d-6a46-4135-a670-bc6ef0097193)
+
 
 
 ## Use Cases
+![DFD Zero Level_4](https://github.com/user-attachments/assets/e1ac3f56-b468-4e44-a225-6e3a4dd3a45c)
+
 
 
 ## Technology Stack
+### Technology Stack for the Alumni Association Platform:
+
+1. **Frontend (Web & Mobile):**
+   - **React.js** for the web and **React Native** for mobile apps to build responsive and cross-platform applications.
+
+2. **Backend:**
+   - **Node.js** with **Express.js** for building scalable APIs, ensuring fast and efficient server-side operations.
+
+3. **Database:**
+   - **PostgreSQL** for relational data storage, managing alumni profiles, donations, and events.
+
+4. **Hosting & Cloud Infrastructure:**
+   - **AWS** for scalable hosting, storage, and database management to ensure high availability and performance.
 
 
 ## Dependencies
+### Key Dependencies for the Platform:
+
+1. **React.js / React Native** for building dynamic, cross-platform user interfaces.
+2. **Node.js / Express.js** for server-side JavaScript execution and API management.
+3. **PostgreSQL** for relational database management to store user data and platform content.
+4. **AWS SDK** for cloud hosting, storage, and scalable infrastructure services.
+
 
